@@ -1,6 +1,6 @@
-# ExitLCD
+# Exit Sign
 
-ExitLCD is a project designed to offer valuable real-time information at a glance. With a focus on convenience and practicality, ExitLCD aggregates data on local traffic conditions, weather updates, air quality, and more onto a 3 module LED matrix display that is located above the main door. By combining various APIs and sensors, ExitLCD delivers key information to residents, making it easier to plan their day efficiently.
+Exit Sign is a project designed to offer valuable real-time information at a glance. With a focus on convenience and practicality, Exit Sign aggregates data on local traffic conditions, weather updates, air quality, and more onto a 3 module LED matrix display that is located above the main door. By combining various APIs and sensors, Exit Sign delivers key information to residents, making it easier to plan their day efficiently.
 
 ### To Do List
 - [x] Design the project architecture
